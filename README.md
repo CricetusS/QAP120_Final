@@ -33,7 +33,7 @@
 В корневом каталоге проекта содержатся:
 * [conftest.py](https://github.com/CricetusS/QAP120_Final/blob/master/conftest.py) - содержит условия для выполнения тестов.
 * [pytest.ini](https://github.com/CricetusS/QAP120_Final/blob/master/pytest.ini) - содержит указание на автоматическую генерацию html-отчета.
-* [README.md]() - содержит информацию в целом о проекте.
+* [README.md](https://github.com/CricetusS/QAP120_Final/blob/master/README.md) - содержит информацию в целом о проекте.
 * [requirements.txt](https://github.com/CricetusS/QAP120_Final/blob/master/requirements.txt) - содержит все библиотеки и зависимости проекта.
 ***
 Директория pages содержит:
@@ -73,7 +73,7 @@
 * Для определения локаторов использовались 
 следующие инструменты: [DevTools](https://developer.chrome.com/docs/devto), [ChroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo).
 
-### Запуск тестов:
+Запуск тестов:
 * установить все библиотеки и зависимости: `pip install -r requirements.txt`.
 * убедиться, что присутствуют основные браузеры для тестирования - в файле conftest.py у фикстуры initialize_driver можно изменить браузер.
 * запустить тесты: `pytest tests/test_auth.py`.
