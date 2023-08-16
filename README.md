@@ -60,7 +60,7 @@
 * эквивалентное разбиение
 * анализ граничных значений
 * предугадывание ошибок
-* [диаграмма перехода состояния (.png)](https://drive.google.com/file/d/1wNGMKdT0kgPsPadnHex9vZ1TwRDAKOfT/view?usp=sharing)
+* [диаграмма перехода состояния (.png)](https://drive.google.com/file/d/1tixqW6IG3XbxRwjjLQnxd7BoWmYOCsWI/view?usp=sharing)
 
 
 Инструменты, которые применялись для тестирования.
